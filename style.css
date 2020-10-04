@@ -1,0 +1,72 @@
+body {
+    font-size: 18px;
+    background-color: #990909;    
+}
+
+header {
+    text-align: center;
+}
+header img {
+    width: 50%;
+}
+
+section {
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+section.images {
+    background-color: black;
+}
+
+
+figure {
+    text-align: center;
+    margin: 2vw;
+}
+
+figcaption {
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 20vw;
+}
+
+.leftPart {
+    width: 80%;
+    text-decoration: underline;
+    background-color: #7D0909;
+    color: #BF390D;
+    text-align: left;
+}
+
+main {
+    text-align: left;
+    color: white;
+}
+
+.rightPart {
+    width: 60%;
+    background-color: #E3DDDD;
+}
+
+aside header {
+    background-color: #BDBDBD ;
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    width: 50%;
+    text-align: center;
+}
+
+footer {
+    background-color: #E95B11;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
